@@ -1,0 +1,9 @@
+[submodule "Modbus"]
+	path = Modbus
+	url = https://github.com/HoreichFawad/Modbus.git
+[submodule "W5500"]
+	path = W5500
+	url = https://github.com/HoreichFawad/W5500.git
+[submodule "rs485"]
+	path = rs485
+	url = https://github.com/horeich/rs485.git
